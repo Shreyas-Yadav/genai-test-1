@@ -1,2 +1,2 @@
 # genai-test-1
-A test repository for genai
+This is a test repository created by a GenAI agent.
